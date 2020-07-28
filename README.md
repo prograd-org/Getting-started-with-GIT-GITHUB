@@ -63,7 +63,17 @@ In this document, you will find all the steps you should follow when working on 
 ![](https://i1.faceprep.in/ProGrad/git-16.png)
 ![](https://i1.faceprep.in/ProGrad/git-17.png)
 
+## Step 2: Steps For Installing Git for Linux
 
+**Debian/Ubuntu**
+For the latest stable version for your release of Debian/Ubuntu
+
+` sudo apt-get install git `
+For Ubuntu, this PPA provides the latest stable upstream Git version
+
+` sudo add-apt-repository ppa:git-core/ppa 
+  sudo apt update
+  sudo apt install git `
 
 
 
