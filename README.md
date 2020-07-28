@@ -61,15 +61,15 @@ In this document, you will find all the steps you should follow when working on 
 
 16. Once the installation is complete, tick the boxes to view the Release Notes or Launch Git Bash, then click Finish.
 ![](https://i1.faceprep.in/ProGrad/git-15.png)
+![](https://i1.faceprep.in/ProGrad/git-16.png)
+![](https://i1.faceprep.in/ProGrad/git-17.png)
 
 
 
 
 
 
-
-
-### How to fork?
+### How to Work with git commands?
 
 <small>All the examples will be related to your ProGrad journey, and they will point to the [`FACEPrep-ProGrad`](https://github.com/FACEPrep-ProGrad
 ) GitHub organization. </small>
