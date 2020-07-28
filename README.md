@@ -71,40 +71,35 @@ For the latest stable version for your release of Debian/Ubuntu
 ` sudo apt-get install git `
 For Ubuntu, this PPA provides the latest stable upstream Git version
 
-` sudo add-apt-repository ppa:git-core/ppa 
-  sudo apt update
-  sudo apt install git `
+```
+sudo add-apt-repository ppa:git-core/ppa 
+sudo apt update
+sudo apt install git 
+```
 
-
-## Step 2: Steps For Installing Git for Mac OS
+## Step 3: Steps For Installing Git for Mac OS
 
 Homebrew
-Install ![homebrew](https://brew.sh/) if you don't already have it, then:
-` brew install git `
-
+Install [homebrew](https://brew.sh/) if you don't already have it, then:
+``` 
+brew install git 
+```
 
 ### How to Work with git commands?
 
-<small>All the examples will be related to your ProGrad journey, and they will point to the [`FACEPrep-ProGrad`](https://github.com/FACEPrep-ProGrad
-) GitHub organization. </small>
 
-Navigate to the repository you want to fork. Let's take an example of the prework [HTML exercise](https://github.com/FACEPrep-ProGrad/project-builder-html-css-npm).
+## Create a new repository
 
-![](https://i1.faceprep.in/ProGrad/1.png)
+Now, go to your GitHub account, if you don't have an [github account](https://github.com/) create a new one.
+![]()
 
-After clicking on the fork button, you will be presented with the loading screen that will most likely look like this:
+Sign in to your existing github account with your login credentails. 
 
-![](https://i1.faceprep.in/ProGrad/2.png)
+1. Click on the green 'New or +' button to create a new repository.
+![]()
 
-After the forking is done successfully, you will be redirected to the **copied repository on your GitHub account**.
+2. A new repository page opens. Fill the 
 
-![](https://i1.faceprep.in/ProGrad/3.png)
-
-We are done here with the forking process.
-
-## Step 2: Clone the repository
-
-Now, on your GitHub account, you have access to the copied repository. This will be repository you will copy (clone) to your local machine, and that will be your working area.
 
 ### How to clone repository?
 
