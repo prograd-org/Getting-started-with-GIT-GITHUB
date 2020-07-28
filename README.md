@@ -76,7 +76,11 @@ For Ubuntu, this PPA provides the latest stable upstream Git version
   sudo apt install git `
 
 
+## Step 2: Steps For Installing Git for Mac OS
 
+Homebrew
+Install ![homebrew](https://brew.sh/) if you don't already have it, then:
+` brew install git `
 
 
 ### How to Work with git commands?
