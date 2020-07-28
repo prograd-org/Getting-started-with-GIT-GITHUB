@@ -157,6 +157,7 @@ Configure your local Git installation to use your GitHub credentials by entering
 git config ––global user.name “github_username”
 git config ––global user.email “email_address”
 ```
+![](https://i1.faceprep.in/ProGrad/github-18.png)
 Run the above commands one by one.
 **Note: Inside the double quotes give your github username and email.**
 
@@ -167,7 +168,7 @@ The local repository process is finished with this step. Now we need to initiali
 ```shell
 $ git init
 ```
-
+![](https://i1.faceprep.in/ProGrad/github-17.png)
 To open the project in VS Code, you have to run the following command when you already navigated to the folder:
 
 ```shell
