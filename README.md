@@ -237,7 +237,9 @@ After committing your changes, you need to add the remote url of your remote rep
 ```shell
 git remote add origin <remote url>
 ```
+
 ![](https://i1.faceprep.in/ProGrad/github-11.png)
+![](https://i1.faceprep.in/ProGrad/github-10.png)
 
 ### How to push changes?
 
