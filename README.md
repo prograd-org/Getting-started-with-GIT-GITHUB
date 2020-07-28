@@ -105,7 +105,7 @@ Sign in to your existing github account with your login credentails.
 ![](![](https://i1.faceprep.in/ProGrad/github-6.png))
 
 3. This is how empty repository will look like.
-![](![](https://i1.faceprep.in/ProGrad/github-7.png))
+![](https://i1.faceprep.in/ProGrad/github-7.png)
 
 
 ## Create a local repository?
