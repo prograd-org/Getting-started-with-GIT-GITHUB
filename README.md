@@ -249,6 +249,14 @@ Enter the github username and password if it asks.
 
 ![](https://i1.faceprep.in/ProGrad/13.png)
 
+**The final steps will look like**
+
+![](https://i1.faceprep.in/ProGrad/github-12.png)
+![](https://i1.faceprep.in/ProGrad/github-13.png)
+![](https://i1.faceprep.in/ProGrad/github-14.png)
+![](https://i1.faceprep.in/ProGrad/github-15.png)
+![](https://i1.faceprep.in/ProGrad/github-16.png)
+
 Perfect! The changes we made are now available in the remote repository on our GitHub profile.
 
 **That would be it. Happy Coding ProGrad ❤️!**
