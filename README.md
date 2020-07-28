@@ -149,14 +149,23 @@ ls
 ```
 
 ![](https://i1.faceprep.in/ProGrad/github-10.png)
+
+### Configure GitHub Credentials
+Configure your local Git installation to use your GitHub credentials by entering the following:
+
+```Shell
+git config ––global user.name “github_username”
+git config ––global user.email “email_address”
+```
+Run the above commands one by one.
+**Note: Inside the double quotes give your github username and email.**
+
+### Setting up repository locally
+
 The local repository process is finished with this step. Now we need to initialize the local repository before we proceed to the next step.
 
-### Using cloned repository locally
-
-Before you open the project, you have to navigate into the cloned folder because that’s where `git` is initialized:
-
 ```shell
-$ cd <name of cloned folder >
+$ git init
 ```
 
 To open the project in VS Code, you have to run the following command when you already navigated to the folder:
@@ -169,7 +178,7 @@ If in doubt, check the following image:
 
 ![](https://i1.faceprep.in/ProGrad/7.png)
 
-Now we are ready to start working/making changes. Quickly go to the terminal and, while in the copied repository, run the following command:
+Now we are ready to start working/making changes. Quickly go to the terminal and, while in the local repository, run the following command:
 
 ```shell
 $ git status
@@ -220,6 +229,14 @@ $ git commit -m “<your message>”
 ```
 
 ![](https://i1.faceprep.in/ProGrad/12.png)
+
+### How to add the remote origin?
+After committing your changes, you need to add the remote url of your remote repository on GitHub with the following command to push the changes to remote repository.
+
+```shell
+git remote add origin <remote url>
+```
+![](https://i1.faceprep.in/ProGrad/github-11.png)
 
 ### How to push changes?
 
