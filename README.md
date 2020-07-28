@@ -91,38 +91,55 @@ brew install git
 ## Create a new repository
 
 Now, go to your GitHub account, if you don't have an [github account](https://github.com/) create a new one.
-![]()
+![](https://i1.faceprep.in/ProGrad/github-1.png)
 
 Sign in to your existing github account with your login credentails. 
+![](https://i1.faceprep.in/ProGrad/github-2.png)
 
 1. Click on the green 'New or +' button to create a new repository.
-![]()
+![](https://i1.faceprep.in/ProGrad/github-3.png)
+![](https://i1.faceprep.in/ProGrad/github-4.png)
 
-2. A new repository page opens. Fill the 
+2. A new repository page opens. Fill the repository name and click the green 'create repository' button to create a new empty repository.
+![](![](https://i1.faceprep.in/ProGrad/github-5.png))
+![](![](https://i1.faceprep.in/ProGrad/github-6.png))
+
+3. This is how empty repository will look like.
+![](![](https://i1.faceprep.in/ProGrad/github-7.png))
 
 
-### How to clone repository?
+## Create a local repository?
 
-1. Click on the green ‘Clone or download’ button and copy the link by selecting and copying or by using the clipboard button.
+1. Open the gitbash or windows command terminal or linux or iterm2 in mac.
 
-![](https://i1.faceprep.in/ProGrad/4.png)
+![](https://i1.faceprep.in/ProGrad/github-8.png)
 
 2. Open your terminal and navigate to the location where you want to store the local version of your repository.
-3. When you navigated to the correct folder in your terminal run the following command:
+3. To navigate use ```cd``` command. When you navigated to the correct folder in your terminal, run the following command:
 
 ```shell
-$ git clone <paste url from the clipboard>
+$ mkdir prograd-sample-repo
 ```
-
 Check the image below if you have any doubts:
 
 ![](https://i1.faceprep.in/ProGrad/5.png)
 
-4. Once the cloning process is done, you see the following information in your terminal. And you can check that repository was successfully cloned from GitHub to your local machine by running `ls` command in your terminal:
+4. Once the directory is created, to create files 
+In windows shell
+``` echo >> filename ``` 
 
-![](https://i1.faceprep.in/ProGrad/6.png)
+In linux and mac terminal
+``` touch filename``` 
+![]()
 
-The cloning process is finished with this step. Now you can use the code to make changes before we proceed to the next step, which is pushing the changes to the forked repository on your GitHub.
+To check if the file is created 
+
+In windows shell 
+``` dir ``` 
+In linux shell or mac terminal
+``` ls ```
+
+The local repository process is finished with this step. Now we need to initialize the local repository before we proceed to the next step.
 
 ### Using cloned repository locally
 
