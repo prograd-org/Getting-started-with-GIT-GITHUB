@@ -130,6 +130,7 @@ In windows shell
 
 In linux and mac terminal
 ``` touch filename``` 
+
 ![](https://i1.faceprep.in/ProGrad/9.png)
 
 To check if the file is created 
@@ -138,6 +139,7 @@ In windows shell
 ``` dir ``` 
 In linux shell or mac terminal
 ``` ls ```
+
 ![](https://i1.faceprep.in/ProGrad/10.png)
 The local repository process is finished with this step. Now we need to initialize the local repository before we proceed to the next step.
 
