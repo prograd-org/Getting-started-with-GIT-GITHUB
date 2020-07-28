@@ -126,21 +126,29 @@ Check the image below if you have any doubts:
 
 4. Once the directory is created, to create files 
 In windows shell
-``` echo >> filename ``` 
+``` 
+echo >> filename 
+``` 
 
 In linux and mac terminal
-``` touch filename``` 
+``` 
+touch filename
+``` 
 
-![](https://i1.faceprep.in/ProGrad/9.png)
+![](https://i1.faceprep.in/ProGrad/github-9.png)
 
 To check if the file is created 
 
 In windows shell 
-``` dir ``` 
+``` 
+dir
+``` 
 In linux shell or mac terminal
-``` ls ```
+``` 
+ls 
+```
 
-![](https://i1.faceprep.in/ProGrad/10.png)
+![](https://i1.faceprep.in/ProGrad/github-10.png)
 The local repository process is finished with this step. Now we need to initialize the local repository before we proceed to the next step.
 
 ### Using cloned repository locally
