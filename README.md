@@ -243,41 +243,12 @@ git remote add origin <remote url>
 After committing your changes, you can push the commits from your local machine to your remote repository on GitHub with the following command:
 
 ```shell
-$ git push origin master
+$ git push -u origin master
 ```
+Enter the github username and password if it asks.
 
 ![](https://i1.faceprep.in/ProGrad/13.png)
 
 Perfect! The changes we made are now available in the remote repository on our GitHub profile.
-
-Now, let's go to the GitHub and learn how to make the pull request.
-
-## Step 4: Create a pull request
-
-After pushing your changes from your local master to the remote master, your commit should be visible on GitHub (the changes you made locally are now available in GitHub repository as well).
-
-When your commit is successfully pushed to GitHub, you can create a pull request by clicking on the "New pull request" button.
-
-![](https://i1.faceprep.in/ProGrad/14.png)
-
-After clicking on that button, you will be forwarded to the following page:
-
-![](https://i1.faceprep.in/ProGrad/15.png)
-
-As you can see in the image above, when you initialize the process for creating the pull request, you will be redirected to the original repository (where you were at the very beginning when you started the process of forking).
-
-The final step is just to fill out the pull request title and the body.
-
-![](https://i1.faceprep.in/ProGrad/16.png)
-
-By pressing the green “Create pull request” button, you will create the pull request to the original lab repository.
-
-### The final
-
-If you would click on the "Pull requests", you will see your own pull request:
-
-![](https://i1.faceprep.in/ProGrad/17.png)
-
-<br><br>
 
 **That would be it. Happy Coding ProGrad ❤️!**
